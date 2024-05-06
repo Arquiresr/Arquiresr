@@ -2,13 +2,23 @@
 
 ### OI, sou Arquires
 ### Principais liguagem:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/><img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="40" height="40"/> <img loading="lazy" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.aptechsp.com.br%2Fcurso-de-linguagem-c%2F&psig=AOvVaw0j6dF2u9mTU3T6A0k70jzC&ust=1710379318909000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDj_M-J8IQDFQAAAAAdAAAAABAE" width="40" height="40"/>
-
- 
- 
-   
+<div align="center">
+  <a href="https://github.com/Arquiresr">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arquiresr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomy19&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="naomy-pic" height="150" style="border-radius:100px;" src="https://64.media.tumblr.com/349a2230b25674faf422844d9ba002e9/tumblr_pbl9sm1kHR1w5a0tmo1_250.png">
+</div>
+  
+  ##
+  
 <div>
-<a href="https://instagram.com/arquiresstoco" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height="40" width="40" target="_blank"</a>
-</div
-         
-            
+  <a href="https://instagram.com/camillanaomy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:camillanaomy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camilla-naomy-tsuda-33839b133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
