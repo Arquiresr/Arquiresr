@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right"  height="150" style="border-radius:100px;" src="https://www.seekpng.com/png/detail/325-3255209_bleach-logo-png-bleach-logo.png">
+  <img align="right"  height="150" style="border-radius:100px;" src="Logo2.png">
 </div>
   
   ##
